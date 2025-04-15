@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://i.pinimg.com/736x/64/0d/03/640d03161d0f9fcc77b98f3bfe44631c.jpg);
+    /* background-size: cover; */
+    /* font-family: 'Georgia', serif; */
+  }
+  
+  h1, h2, p {
+    text-align: center;
+    /* color: #2e1a0f; */
+  }
+  
+  .catalog {
+    width: 80%;
+    background-color: #f5deb3cc;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  /* article {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid #a0522d;
+  }
+   */
